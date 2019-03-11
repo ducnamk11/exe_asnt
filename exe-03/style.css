@@ -1,0 +1,111 @@
+body{
+	margin: auto 50px;
+}
+#top{
+	height: 38px;
+	width: 1165px;
+	background-color: black;
+	line-height: 38px;
+
+}
+#top span{
+	color: white;
+	margin-left: 123px;
+
+}
+#content{
+	height: 355px;
+	width: 1165px;
+	background-color: #047bf6;
+	position: relative;
+}
+.intro{
+	margin-left: 120px; 
+	height: 355px;
+	width: 539px;
+	color: white;
+	float: left;
+}
+.log_in{
+	float: left;
+	margin-left: 20px; 
+
+}
+.fbgg{
+	margin:20px auto;
+}
+
+.fbgg ul li {
+	height: 35px;
+	width: 195px;
+	float: left;
+	background-color: white;
+	line-height: 35px;
+	text-align:center;
+	text-decoration: none;
+	list-style: none;
+
+}
+.fbgg ul li a{
+	color: white;
+	text-decoration: none;
+}
+.signup{
+	margin-top: 40px; 
+	clear: both;
+}
+
+
+
+.signup{
+	display: block;
+
+
+}
+.signup ul{
+	padding-top: 10px;
+}
+
+.signup ul li{
+	height: 40px;
+	width: 100px;
+	float: left;
+	list-style-type: none;
+	background-color: #edf0f0; 	
+	line-height: 38px;
+}
+
+ul li.row{
+	width: 250px;
+	display:block;
+	background-color: #fefefe;
+
+}
+ul li.row input{
+	width: 250px;
+	line-height: 38px;
+	border: none;
+}
+.submit{
+	float: left;
+	height: 50;
+	width: 120px;
+	padding: 10px;
+	margin: 28px 0px 0px 38px;
+	background-color: #047bf6;
+	border: solid 1px white;
+	color: white;
+}
+
+
+
+#bottom{
+	height: 45px;
+	margin-top: 1px; 
+	width: 1165px;
+	background-color: #006cdb;
+	color: white;
+	line-height: 45px;
+	text-align: center;
+	display: inline-block;
+}
